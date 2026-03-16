@@ -1,0 +1,5 @@
+{
+  "name": "Gestão Inteligente de Restaurantes",
+  "description": "Sistema digital completo para gestão de restaurantes com OCR de cupons fiscais, controle de estoque e cálculo de lucro.",
+  "requestFramePermissions": []
+}
